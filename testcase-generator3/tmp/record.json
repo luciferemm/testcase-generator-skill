@@ -1,0 +1,1 @@
+{"type":"test_case","source":"实例/final/PRD.md","output":"testcases_20260526220013.xlsx","case_count":57,"coverage_rate":"100%","modules":["用户管理","讲座管理","预约与签到","统计报表","系统管理","场景测试"]}
